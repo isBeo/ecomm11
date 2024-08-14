@@ -1,0 +1,35 @@
+
+
+.search{
+    width:100vw;
+    display:flex;
+    /* grid-template-columns: 90% 10%; */
+    align-items: center;
+    background-color: black;
+    /* padding:0 5px; */
+    justify-items:center ;
+    box-sizing: border-box;
+    /* border:1px solid ; */
+    box-shadow: 0 0 2px ;
+
+}
+.search input{
+    width: 90%;
+    height: 100%;
+    padding:0 10px;
+    font-size: 1.7rem;
+    border: none;
+}
+
+
+.searchIcon{
+    height: 100%;
+    width: 10%;
+    align-self: stretch;
+}
+
+.srch{
+    height: 100%;
+}
+
+ 
